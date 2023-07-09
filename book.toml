@@ -1,0 +1,6 @@
+[book]
+authors = ["hao"]
+language = "en"
+multilingual = false
+src = "src"
+title = "自我总结"
